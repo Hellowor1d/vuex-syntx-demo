@@ -1,6 +1,7 @@
 # vuex-test
 
-> A Vue.js project
+> A Vuex syntx practice project
+some error was made by design , you can try to fix them to learn the use of vuex.
 
 ## Build Setup
 
